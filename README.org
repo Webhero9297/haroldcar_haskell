@@ -1,6 +1,4 @@
-
-
-suggested reading order:
+* suggested reading order:
 
 - ./examples/scenario-0
 - ./src/BC.hs
